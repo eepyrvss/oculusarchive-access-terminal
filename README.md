@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="OCL_WHITE.png" width="96" alt="Oculus emblem">
+<img src="OCL WHITE.png" width="96" alt="Oculus emblem">
 
 # OCULUS ARCHIVE // ACCESS TERMINAL
 
