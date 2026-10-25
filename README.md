@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="OCL WHITE.png" width="96" alt="Oculus emblem">
+<img src="OCL%20WHITE.png" width="96" alt="Oculus emblem">
 
 # OCULUS ARCHIVE // ACCESS TERMINAL
 
@@ -10,7 +10,7 @@
 
 **TITAN INTERNATIONAL CORPORATION · INFORMATION ARCHIVES**
 
-### [▶ ENTER THE TERMINAL](https://eepyrvss.github.io/oculusarchive-access-terminal/)
+### [▶ ENTER THE TERMINAL](https://github.com/eepyrvss/oculusarchive-access-terminal/blob/main/index.html)
 
 </div>
 
